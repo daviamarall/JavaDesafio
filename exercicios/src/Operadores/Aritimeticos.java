@@ -1,4 +1,4 @@
-package fundamentos;
+package Operadores;
 
 public class Aritimeticos {
 
